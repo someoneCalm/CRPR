@@ -1,0 +1,3 @@
+pysdl2
+numpy
+pysdl2.dll
